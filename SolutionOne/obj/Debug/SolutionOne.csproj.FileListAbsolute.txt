@@ -1,0 +1,5 @@
+C:\Users\Mahmoud\Desktop\DependencyInjection\SolutionOne\bin\Debug\SolutionOne.dll
+C:\Users\Mahmoud\Desktop\DependencyInjection\SolutionOne\bin\Debug\SolutionOne.pdb
+C:\Users\Mahmoud\Desktop\DependencyInjection\SolutionOne\obj\Debug\SolutionOne.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud\Desktop\DependencyInjection\SolutionOne\obj\Debug\SolutionOne.dll
+C:\Users\Mahmoud\Desktop\DependencyInjection\SolutionOne\obj\Debug\SolutionOne.pdb

@@ -1,0 +1,12 @@
+C:\Users\Mahmoud\Desktop\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe.config
+C:\Users\Mahmoud\Desktop\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.exe
+C:\Users\Mahmoud\Desktop\DependencyInjection\DependencyInjection\bin\Debug\DependencyInjection.pdb
+C:\Users\Mahmoud\Desktop\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud\Desktop\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.exe
+C:\Users\Mahmoud\Desktop\DependencyInjection\DependencyInjection\obj\Debug\DependencyInjection.pdb
+C:\Users\Mahmoud\Desktop\DependencyInjection\DependencyInjection\bin\Debug\Problem.dll
+C:\Users\Mahmoud\Desktop\DependencyInjection\DependencyInjection\bin\Debug\Problem.pdb
+C:\Users\Mahmoud\Desktop\DependencyInjection\DependencyInjection\bin\Debug\SolutionOne.dll
+C:\Users\Mahmoud\Desktop\DependencyInjection\DependencyInjection\bin\Debug\SolutionTwo.dll
+C:\Users\Mahmoud\Desktop\DependencyInjection\DependencyInjection\bin\Debug\SolutionOne.pdb
+C:\Users\Mahmoud\Desktop\DependencyInjection\DependencyInjection\bin\Debug\SolutionTwo.pdb

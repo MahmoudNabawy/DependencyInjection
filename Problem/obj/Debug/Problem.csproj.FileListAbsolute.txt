@@ -1,0 +1,5 @@
+C:\Users\Mahmoud\Desktop\DependencyInjection\Problem\bin\Debug\Problem.dll
+C:\Users\Mahmoud\Desktop\DependencyInjection\Problem\bin\Debug\Problem.pdb
+C:\Users\Mahmoud\Desktop\DependencyInjection\Problem\obj\Debug\Problem.csprojResolveAssemblyReference.cache
+C:\Users\Mahmoud\Desktop\DependencyInjection\Problem\obj\Debug\Problem.dll
+C:\Users\Mahmoud\Desktop\DependencyInjection\Problem\obj\Debug\Problem.pdb
